@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+#main-div,h1{
+    font-family: system-ui;
+  background: #1b8ea8;
+  color: white;
+  text-align: center;
+  font-size: 100px;
+  display: inline-block;
+  margin: 100px;
+}
+div{
+    width:auto ;
+    height: auto;
+    border: 1px solid black;
+    margin: auto;
+}
+h1{
+    background: #22dcaa;
+    /* display: inline; */
+}
